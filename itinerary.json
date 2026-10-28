@@ -1,0 +1,91 @@
+{
+  "Name": "Elmo Mobster",
+  "Nickname": "Don 'Mo",
+  "Contact": {
+    "Phone": "619-943-ELMO",
+    "Email": "Web.ShowKids@sesame.org"
+  },
+  "Destinations": {
+    "Memphis": {
+      "Arrival": "2027 01 13",
+      "Departure": "2027 01 28",
+      "Activities": {
+        "0500": "Recieve mule shipment",
+        "0700": "Open gambling hall",
+        "0900": "Loan money to police"
+      }
+    },
+    "Oakland": {
+      "Arrival": "2027 02 10",
+      "Departure": "2027 02 28",
+      "Activities": {
+        "0500": "Fund unions",
+        "0700": "Recieve mule shipment",
+        "0900": "Collect protection payments"
+      }
+    },
+    "St. Louis": {
+      "Arrival": "2027 03 10",
+      "Departure": "2027 03 28",
+      "Activities": {
+        "0500": "Collect protection payments",
+        "0700": "Open gambling hall",
+        "0900": "Recieve mule shipment"
+      }
+    },
+    "Detroit": {
+      "Arrival": "2027 04 12",
+      "Departure": "2027 04 28",
+      "Activities": {
+        "0500": "Collect protection payments",
+        "0700": "Open gambling hall",
+        "0900": "Fund unions"
+      }
+    },
+    "Alexandria": {
+      "Arrival": "2027 05 11",
+      "Departure": "2027 05 28",
+      "Activities": {
+        "0500": "Collect protection payments",
+        "0700": "Open gambling hall",
+        "0900": "Loan money to police"
+      }
+    },
+    "New Orleans": {
+      "Arrival": "2027 06 11",
+      "Departure": "2027 06 28",
+      "Activities": {
+        "0500": "Open gambling hall",
+        "0700": "Fund unions",
+        "0900": "Cook books at laundromat"
+      }
+    },
+    "Cleveland": {
+      "Arrival": "2027 07 11",
+      "Departure": "2027 07 28",
+      "Activities": {
+        "0500": "Collect protection payments",
+        "0700": "Recieve mule shipment",
+        "0900": "Loan money to police"
+      }
+    },
+    "Monroe": {
+      "Arrival": "2027 08 12",
+      "Departure": "2027 08 28",
+      "Activities": {
+        "0500": "Collect protection payments",
+        "0700": "Cook books at laundromat",
+        "0900": "Open gambling hall"
+      }
+    },
+    "Baltimore": {
+      "Arrival": "2027 09 12",
+      "Departure": "2027 09 28",
+      "Activities": {
+        "0500": "Loan money to police",
+        "0700": "Open gambling hall",
+        "0900": "Cook books at laundromat"
+      }
+    }
+  }
+}
