@@ -86,6 +86,16 @@
         "0700": "Open gambling hall",
         "0900": "Cook books at laundromat"
       }
+    },
+    "Chicago": {
+     "Arrival": "2027-10-11",
+     "Departure": "2027-10-15",
+     "Activities": {
+       "0900": "Visit Millennium Park",
+      "1200": "Try deep-dish pizza",
+      "1500": "Explore the Field Museum",
+      "1900": "Enjoy a riverwalk evening"
+      }
     }
   }
 }
