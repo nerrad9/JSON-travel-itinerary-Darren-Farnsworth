@@ -86,6 +86,19 @@
         "0700": "Open gambling hall",
         "0900": "Cook books at laundromat"
       }
+    },
+    "Charleston": {
+      "Arrival": "2027 10 28",
+      "Departure": "2027 10 20",
+      "Activities": {
+        "0500":"Gambling",
+        "0700":"Hiking",
+        "0900":"More gambling",
+      },
+      "Transportation": {
+        "mode": "Flight",
+        "cost": 150.00
+      }
     }
   }
 }
